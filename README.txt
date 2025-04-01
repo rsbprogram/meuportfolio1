@@ -1,18 +1,11 @@
-Este site é construído em torno de uma grade de "blocos de imagem" que são
-configurados para fazer uma transição suave para páginas de destino secundárias (para as quais um modelo de página
-separado é fornecido) e inclui uma série de efeitos legais (confira o menu!),
-recursos extras e todas as coisas usuais que você esperaria. Estou ajustando as imagens ainda! Ainda estou aprendendo e praticando!
+As imagens utilizadas no projeto são cortesia do **Unsplash**, uma coleção incrível de imagens **CC0 (domínio público)** que você pode usar para praticamente qualquer coisa.
 
-Imagens de demonstração* cortesia do Unsplash, uma coleção radical de imagens CC0 (domínio público)
-que você pode usar para praticamente qualquer coisa.
+🔹 **Imagens de demonstração:** *não incluídas*
 
-(* = não incluído)
+## 📌 Créditos
 
-Créditos:
+- **Imagens de demonstração:** [Unsplash](https://unsplash.com/)
+- **Ícones:** [Font Awesome](https://fontawesome.io/)
 
-Imagens de demonstração:
-Unsplash (unsplash.com)
-
-Ícones:
-Font Awesome (fontawesome.io)
-
+---
+💡 *Se quiser contribuir com sugestões ou melhorias, fique à vontade!* 😃
